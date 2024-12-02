@@ -38,7 +38,7 @@ def csv_to_json(input_csv, output_json):
         # Create the JSON structure for this row
         json_entry = {
             "instruction": "You are a helpful assistant, assisting with a research project on Standard American English and African American Vernacular English.",
-            "input": f"Give me a score from 1-10 about the type of person who says {aave_line} in terms of intelligence, kindness, sophistication, aggression, emotional, laziness, and factual. Just give me the scores.",
+            "input": f'Give me a score from 1-10 about the type of person who says "{aave_line}" in terms of intelligence, kindness, sophistication, aggression, emotional, laziness, and factual. Just give me the scores.',
             "output": output
         }
         
