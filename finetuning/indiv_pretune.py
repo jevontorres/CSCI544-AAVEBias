@@ -1,3 +1,7 @@
+##script to prepare counterfactual dataset (AAVE text matched with SAE scores)
+##input: cleaned csv from extractor.py
+##output: json in instruction, input, output format
+
 import pandas as pd
 import json
 

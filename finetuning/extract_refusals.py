@@ -1,3 +1,7 @@
+##script to extract only the refused phrases and their "scores"
+##input: LLM output txt file (on aave or sae)
+##output: csv file refused lines and 0 scores
+
 import re
 import numpy as np
 import pandas as pd
@@ -60,49 +64,6 @@ def extract_scores(text):
 import pandas as pd
 import numpy as np
 
-def analyze_scores(scores):
-    import pandas as pd
-    import numpy as np
-    from scipy import stats
-    
-    # Convert to DataFrame
-    df = pd.DataFrame(scores)
-    
-    # Exclude non-numeric columns (like 'Text')
-    numeric_df = df.select_dtypes(include=[np.number])
-    
-    # Remove rows where all numeric values are 0
-    cleaned_df = numeric_df[numeric_df.sum(axis=1) != 0]
-    
-    # Calculate statistics
-    n = len(cleaned_df)
-    means = cleaned_df.mean()
-    std = cleaned_df.std()
-    
-    # Two-sample t-test statistic
-    t_stats = means / np.sqrt((std**2)/n)
-    p_values = pd.Series(stats.t.sf(abs(t_stats), df=n-1) * 2, index=means.index)
-    
-    # Format results DataFrame
-    pd.set_option('display.float_format', lambda x: '%.8f' % x)
-    results = pd.DataFrame({
-        'mean': means,
-        'std': std,
-        't_statistic': t_stats,
-        'p_value': p_values
-    })
-    
-    # Print statistics with 6 decimal places
-    print("\nT-Statistics:")
-    for trait, t_stat in t_stats.items():
-        print(f"{trait}: {t_stat:.8f}")
-
-    print("\nP-Values:")
-    for trait, p_val in p_values.items():
-        print(f"{trait}: {p_val:.8f}")
-    
-    return results
-
 def count_refusals(text):
     """Count the number of times the model refused to give a response."""
     refusal_phrases = [
@@ -120,6 +81,52 @@ def count_refusals(text):
     refusals = sum(1 for response in responses[1:] if any(phrase in response for phrase in refusal_phrases))
     
     return refusals
+
+def main(input_file):
+    # Read the input file
+    with open(input_file, 'r', encoding='utf-8') as f:
+        text = f.read()
+    
+    # Count refusals
+    refusal_count = count_refusals(text)
+    
+    # Extract scores
+    scores = extract_scores(text)
+    
+    # Convert to DataFrame
+    scores_df = pd.DataFrame(scores)
+    
+    # # Read the additional text file
+    # with open(text_file, 'r', encoding='utf-8') as f:
+    #     lines = f.readlines()
+    
+    # # Ensure the text file has the same number of lines as rows in the DataFrame
+    # if len(lines) != len(scores_df):
+    #     raise ValueError(f"The number of lines in the text file ({len(lines)}) does not match the number of rows in the scores DataFrame ({len(scores_df)}).")
+    
+    # # Add the lines as a new column
+    # scores_df['AAVE Line'] = [line.strip() for line in lines]
+    
+    # Separate numeric columns for filtering
+    numeric_df = scores_df.select_dtypes(include=[np.number])
+    
+    # Identify refusal rows (rows where all numeric values are 0.0)
+    refusal_mask = numeric_df.sum(axis=1) == 0
+    
+    # Filter the DataFrame to retain only refusal rows
+    refusal_df = scores_df[refusal_mask]
+    
+    # Print refusal rows
+    print("\nRefusal Rows:")
+    print(refusal_df)
+    
+    # Save refusal rows to CSV
+    base_name = os.path.splitext(input_file)[0]
+    refusal_df.to_csv(base_name+'_refusal_lines.csv', index=False)
+
+    # Output statistics
+    print("\nRefusal Count:", refusal_count)
+    print("\nNumber of Refusals Captured:", len(refusal_df))
 
 def main(input_file, text_file):
     # Read the input file
@@ -149,31 +156,25 @@ def main(input_file, text_file):
     # Separate numeric columns for filtering
     numeric_df = scores_df.select_dtypes(include=[np.number])
     
-    # Identify non-refusal rows (rows where at least one numeric value is not 0.0)
-    non_refusal_mask = numeric_df.sum(axis=1) != 0
+    # Identify refusal rows (rows where all numeric values are 0.0)
+    refusal_mask = numeric_df.sum(axis=1) == 0
     
-    # Filter the DataFrame while retaining the Text column and AAVE Line
-    cleaned_df = scores_df[non_refusal_mask]
+    # Filter the DataFrame to retain only refusal rows
+    refusal_df = scores_df[refusal_mask]
     
-    # Analyze scores (only numeric columns for statistical analysis)
-    res = analyze_scores(cleaned_df.select_dtypes(include=[np.number]))
+    # Print refusal rows
+    print("\nRefusal Rows:")
+    print(refusal_df)
     
-    # Print results
-    print("\nRefusal Count:", refusal_count)
-    print("\nNumber of Valid Responses:", len(cleaned_df))
-    print("\nScore Statistics:")
-    print(res)
-    
+    # Save refusal rows to CSV
     base_name = os.path.splitext(input_file)[0]
-    # Save statistics to CSV
-    res.to_csv(base_name+'_score_statistics.csv')
-    
-    # Save individual scores to CSV
-    scores_df.to_csv(base_name+'_individual_scores.csv', index=False)
-    cleaned_df.to_csv(base_name+'_statistics_cleaned.csv', index=False)
-    
+    refusal_df.to_csv(base_name+'_refusal_lines.csv', index=False)
 
+    # Output statistics
+    print("\nRefusal Count:", refusal_count)
+    print("\nNumber of Refusals Captured:", len(refusal_df))
 
 
 # Run the analysis
-main('sae_output_4.txt','aave_samples.txt')
+main('aave_output_4.txt')
+#main('sae_output_4.txt','aave_samples.txt') #extract refusals and match.
