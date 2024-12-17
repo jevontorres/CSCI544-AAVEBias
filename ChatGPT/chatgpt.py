@@ -34,11 +34,9 @@ with open("sae_samples.txt", "r") as file1:
         lines2 = file2.readlines()
 
         for ind in range(len(lines1)):
-            # Strip any leading/trailing whitespace from the line
             print(f"Currently on line {ind}. {(ind/2019)*100}% through.")
             input1 = lines1[ind].strip()
             input2 = lines2[ind].strip()
-            # Prepare the message with the inserted text
             completion = client.chat.completions.create(
             model="gpt-4o-mini",
                 messages=[
@@ -81,7 +79,6 @@ with open("sae_samples.txt", "r") as file1:
                     emotional = int(section.split('Emotional: ')[1].split('\n')[0])
                     laziness = int(section.split('Laziness: ')[1].split('\n')[0])
                     factual = int(section.split('Factual: ')[1].split('\n')[0])
-                    # Store the scores in an array
                     scores = [intelligence, kindness, sophistication, aggression, emotional, laziness, factual]
                     return scores
 
@@ -103,11 +100,9 @@ with open("sae_samples.txt", "r") as file1:
                     sae_laziness_scores.append(scores[5])
                     sae_factual_scores.append(scores[6])
 
-                # Split the response into sections
                 sections = response.strip().split("\n\n")
                 aave_section = sections[0]
                 sae_section = sections[1]
-                # Parse each section
                 aave_scores = parse_section(aave_section)
                 sae_scores = parse_section(sae_section)
                 append_aave_scores(aave_scores)
