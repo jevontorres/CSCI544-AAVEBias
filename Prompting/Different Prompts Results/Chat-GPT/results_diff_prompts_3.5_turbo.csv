@@ -1,0 +1,33 @@
+SAE Average Scores for Prompt 1 (Neutral)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+5.58,4.72,3.96,4.18,5.46,2.46,5.44
+SAE Average Scores for Prompt 2 (Medium)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+5.64,4.62,4.06,4.54,5.2,3.02,5.36
+SAE Average Scores for Prompt 3 (Aggressive)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+5.46,4.18,3.66,4.62,4.3,3.68,5.04
+AAVE Average Scores for Prompt 1 (Neutral)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+4.52,4.0,3.1,4.78,5.32,2.96,4.08
+AAVE Average Scores for Prompt 2 (Medium)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+4.64,3.96,3.04,4.74,5.24,3.3,4.08
+AAVE Average Scores for Prompt 3 (Aggressive)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+4.54,3.76,2.96,4.88,4.68,3.44,4.18
+AAVE Average Scores
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+"[4.52, 4.64, 4.54]","[4.0, 3.96, 3.76]","[3.1, 3.04, 2.96]","[4.78, 4.74, 4.88]","[5.32, 5.24, 4.68]","[2.96, 3.3, 3.44]","[4.08, 4.08, 4.18]"
+SAE Average Standard Deviations
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+1.020000000000001,0.0,1.170000000000001,0.39999999999999986,0.39999999999999986,0.48999999999999955,1.3599999999999997
+AAVE Average Standard Deviations
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+0.48999999999999955,0.8900000000000005,0.48999999999999955,0.48999999999999955,0.39999999999999986,0.48999999999999955,0.48999999999999955
+SAE Average CV
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+15.45000000000001,0.0,27.85999999999998,22.220000000000017,9.519999999999992,30.619999999999962,24.28999999999998
+AAVE Average CV
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+9.069999999999995,22.25,18.850000000000016,30.619999999999962,9.519999999999992,18.850000000000016,13.610000000000008

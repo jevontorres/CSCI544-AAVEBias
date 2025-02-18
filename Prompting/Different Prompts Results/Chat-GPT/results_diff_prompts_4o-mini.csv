@@ -1,0 +1,33 @@
+SAE Average Scores for Prompt 1 (Neutral)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+5.7,4.84,4.74,4.22,5.6,2.86,4.98
+SAE Average Scores for Prompt 2 (Medium)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+5.8,4.88,4.96,4.18,5.72,3.12,5.34
+SAE Average Scores for Prompt 3 (Aggressive)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+5.6,4.34,4.54,4.6,6.16,3.46,5.16
+AAVE Average Scores for Prompt 1 (Neutral)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+4.98,4.48,4.08,4.44,5.86,3.54,4.34
+AAVE Average Scores for Prompt 2 (Medium)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+4.92,4.6,4.0,4.56,5.78,3.58,4.54
+AAVE Average Scores for Prompt 3 (Aggressive)
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+4.88,4.22,3.88,5.08,5.9,4.04,4.64
+AAVE Average Scores
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+"[4.98, 4.92, 4.88]","[4.48, 4.6, 4.22]","[4.08, 4.0, 3.88]","[4.44, 4.56, 5.08]","[5.86, 5.78, 5.9]","[3.54, 3.58, 4.04]","[4.34, 4.54, 4.64]"
+SAE Average Standard Deviations
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+0.75,0.48999999999999955,0.48999999999999955,0.6299999999999997,1.329999999999999,0.48999999999999955,0.75
+AAVE Average Standard Deviations
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+0.39999999999999986,0.7999999999999997,0.39999999999999986,0.0,0.39999999999999986,0.0,0.39999999999999986
+SAE Average CV
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+12.100000000000012,8.75,11.139999999999992,21.0,27.71000000000002,20.419999999999987,12.100000000000012
+AAVE Average CV
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+7.689999999999999,14.809999999999985,10.529999999999987,0.0,5.879999999999996,0.0,8.329999999999998
