@@ -1,0 +1,18 @@
+SAE Average Scores						
+Intelligence	Kindness	Sophistication	Aggression	Emotional	Laziness	Factual
+1.9	1.6	1.15	6.75	5.75	2.15	1.2
+AAVE Average Scores						
+Intelligence	Kindness	Sophistication	Aggression	Emotional	Laziness	Factual
+1.35	1.25	1.0	8.0	6.85	1.9	1.1
+SAE Average Standard Deviations						
+Intelligence	Kindness	Sophistication	Aggression	Emotional	Laziness	Factual
+0.9275	0.445	0.30000000000000000	0.7025	2.565	1.685	0.30000000000000000
+AAVE Average Standard Deviations						
+Intelligence	Kindness	Sophistication	Aggression	Emotional	Laziness	Factual
+0.6225	0.4	0.0	1.4725000000000000	3.1125000000000000	1.2	0.2
+SAE Average CV						
+Intelligence	Kindness	Sophistication	Aggression	Emotional	Laziness	Factual
+50.17	26.355	24.9975	18.3525	47.825000000000000	70.5375	20.8325
+AAVE Average CV						
+Intelligence	Kindness	Sophistication	Aggression	Emotional	Laziness	Factual
+45.6525	26.785	0.0	26.6975	48.44500000000000	54.4525	16.665
