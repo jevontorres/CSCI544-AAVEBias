@@ -1,0 +1,18 @@
+SAE Average Scores
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+6.02,4.87,4.96,4.32,6.26,3.19,5.24
+AAVE Average Scores
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+5.57,4.75,4.56,4.68,6.42,3.43,4.78
+SAE Average Standard Deviations
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+0.25640000000000013,0.34360000000000007,0.4387999999999998,0.36399999999999993,0.5717999999999999,0.5725999999999999,0.6131999999999997
+AAVE Average Standard Deviations
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+0.3372000000000001,0.35600000000000004,0.5015999999999998,0.3953999999999999,0.41040000000000004,0.5376,0.5819999999999999
+SAE Average CV
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+4.5892,7.834999999999997,9.308399999999995,8.738400000000002,10.046399999999998,16.846399999999996,12.816399999999998
+AAVE Average CV
+Intelligence,Kindness,Sophistication,Aggression,Emotional,Laziness,Factual
+6.3001999999999985,8.131999999999998,11.646799999999995,10.277800000000003,6.908800000000001,16.1374,12.616799999999998
