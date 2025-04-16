@@ -10,16 +10,17 @@ import csv
 def csv_to_json(input_csv, output_json):
     # Load the CSV file
     df = pd.read_csv(input_csv)
-    
+
     # Ensure necessary columns are present
     required_columns = [
         'Text', 'Intelligence', 'Determination', 'Calmness',
-        'Politeness', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness'
+        'Politeness', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication',
+        'Laziness'
     ]
     for col in required_columns:
         if col not in df.columns:
             raise ValueError(f"Missing required column: {col}")
-    
+
     # List to store JSON objects
     json_data = []
 
@@ -41,43 +42,43 @@ def csv_to_json(input_csv, output_json):
             "Laziness": row['Laziness'],
         }
 
-        
         # Format the "output" string
         output = "\n".join([f"* {key}: {value}" for key, value in scores.items()])
-        
+
         # Create the JSON structure for this row
         json_entry = {
             "instruction": "You are a helpful assistant, assisting with a research project on Standard American English and African American Vernacular English.",
             "input": f"Analyze the type of person who would say \"{aave_line}\."
-                      f"Evaluate them on the following characteristics with scores from 1-5."
-                      f"1 = This person does not exhibit this characteristic."
-                      f"2 = This person exhibits a small level of this characteristic."
-                      f"3 = This person exhibits a moderate level of this characteristic."
-                      f"4 = This person exhibits a high level of this characteristic."
-                      f"5 = This person strongly and completely exhibits this characteristic."
-                      f"Only provide numerical scores. Do not provide reasoning.\n\n"
-                      f"Use this exact format and do not alter the format:\n\n"
-                      f"Intelligence: score\n"
-                      f"Determination: score\n"
-                      f"Calmness: score\n"
-                      f"Politeness: score\n"
-                      f"Aggression: score\n"
-                      f"Sophistication: score\n"
-                      f"Incoherence: score\n"
-                      f"Rudeness: score\n"
-                      f"Stupidity: score\n"
-                      f"Articulation: score\n"
-                      f"Unsophistication: score\n"
-                      f"Laziness: score\n\n",
+                     f"Evaluate them on the following characteristics with scores from 1-5."
+                     f"1 = This person does not exhibit this characteristic."
+                     f"2 = This person exhibits a small level of this characteristic."
+                     f"3 = This person exhibits a moderate level of this characteristic."
+                     f"4 = This person exhibits a high level of this characteristic."
+                     f"5 = This person strongly and completely exhibits this characteristic."
+                     f"Only provide numerical scores. Do not provide reasoning.\n\n"
+                     f"Use this exact format and do not alter the format:\n\n"
+                     f"Intelligence: score\n"
+                     f"Determination: score\n"
+                     f"Calmness: score\n"
+                     f"Politeness: score\n"
+                     f"Aggression: score\n"
+                     f"Sophistication: score\n"
+                     f"Incoherence: score\n"
+                     f"Rudeness: score\n"
+                     f"Stupidity: score\n"
+                     f"Articulation: score\n"
+                     f"Unsophistication: score\n"
+                     f"Laziness: score\n\n",
             "output": output
         }
-        
+
         # Append to the list
         json_data.append(json_entry)
-    
+
     # Write to JSON file
     with open(output_json, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, indent=4, ensure_ascii=False)
+
 
 # Example usage
 csv_to_json('~/Downloads/indirect_finetuning_scores_4omini_showcais.csv', 'indiv_aave_to_sae_scores.json')
