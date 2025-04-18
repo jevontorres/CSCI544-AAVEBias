@@ -1,0 +1,203 @@
+CTF_GAP,CTF_VIOLATION,Intelligence_GAP,Determination_GAP,Calmness_GAP,Politeness_GAP,Aggression_GAP,Sophistication_GAP,Incoherence_GAP,Rudeness_GAP,Stupidity_GAP,Articulation_GAP,Unsophistication_GAP,Laziness_GAP
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.5,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.5
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Unsophistication']",0.0,0.25,0.25,0.25,0.25,0.25,0.0,0.25,0.0,0.0,0.5,0.0
+0.1458,"['Determination', 'Calmness', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.25,0.0,0.0,0.25,0.5,0.25,0.0,0.0,0.25,0.0
+0.1042,"['Determination', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25,0.25,0.25
+0.125,"['Determination', 'Politeness', 'Rudeness', 'Stupidity']",0.0,0.5,0.0,0.25,0.0,0.0,0.0,0.5,0.25,0.0,0.0,0.0
+0.2917,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.25,0.0,0.25,0.5,0.25,0.25,0.0,0.75,0.25,0.25,0.5,0.25
+0.25,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication']",0.25,0.0,0.5,0.5,0.25,0.25,0.0,0.75,0.25,0.0,0.25,0.0
+0.1458,"['Intelligence', 'Determination', 'Aggression', 'Sophistication', 'Stupidity', 'Unsophistication']",0.25,0.5,0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.0,0.25,0.0
+0.125,"['Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Laziness']",0.0,0.0,0.0,0.25,0.25,0.0,0.25,0.5,0.0,0.0,0.0,0.25
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Sophistication', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.5,0.25,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.25,0.25
+0.0833,"['Determination', 'Calmness', 'Politeness', 'Incoherence']",0.0,0.25,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+0.125,"['Calmness', 'Politeness', 'Rudeness', 'Laziness']",0.0,0.0,0.25,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.25
+0.125,"['Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.0,0.25,0.25,0.25,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+0.1042,"['Politeness', 'Aggression', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.25,0.0,0.25,0.25
+0.1042,"['Calmness', 'Politeness', 'Aggression', 'Rudeness']",0.0,0.0,0.5,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+0.1667,"['Determination', 'Politeness', 'Sophistication', 'Rudeness', 'Articulation', 'Unsophistication', 'Laziness']",0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.5,0.25
+0.2708,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication']",0.25,0.5,0.25,0.5,0.25,0.25,0.0,0.5,0.25,0.25,0.25,0.0
+0.1458,"['Determination', 'Aggression', 'Incoherence', 'Rudeness', 'Stupidity', 'Laziness']",0.0,0.5,0.0,0.0,0.25,0.0,0.25,0.25,0.25,0.0,0.0,0.25
+0.0833,"['Determination', 'Politeness', 'Rudeness']",0.0,0.5,0.0,0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+0.2083,"['Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.0,0.5,0.25,0.25,0.25,0.25,0.5,0.0,0.0,0.25,0.25
+0.0833,"['Determination', 'Calmness', 'Aggression', 'Laziness']",0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.5,0.25,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.25,0.25
+0.3125,"['Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.0,0.5,0.5,0.75,0.25,0.25,1.0,0.0,0.0,0.25,0.25
+0.0833,"['Determination', 'Politeness', 'Incoherence', 'Rudeness']",0.0,0.25,0.0,0.25,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0
+0.2708,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.25,0.5,0.5,0.5,0.0,0.0,0.75,0.25,0.0,0.25,0.25
+0.1042,"['Calmness', 'Sophistication', 'Articulation', 'Unsophistication']",0.0,0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25,0.5,0.0
+0.2917,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.0,0.5,0.25,0.5,0.25,0.25,0.75,0.25,0.0,0.25,0.25
+0.1042,"['Intelligence', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity']",0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.25,0.25,0.0,0.0,0.0
+0.125,"['Calmness', 'Sophistication', 'Unsophistication', 'Laziness']",0.0,0.0,0.5,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.5,0.25
+0.1875,"['Intelligence', 'Determination', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Laziness']",0.25,0.5,0.0,0.0,0.25,0.25,0.25,0.25,0.25,0.0,0.0,0.25
+0.2083,"['Intelligence', 'Determination', 'Calmness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.25,0.25,0.0,0.25,0.25,0.0,0.25,0.25,0.0,0.5,0.25
+0.2708,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Laziness']",0.25,0.0,0.25,0.5,0.5,0.25,0.25,0.75,0.25,0.0,0.0,0.25
+0.1042,"['Intelligence', 'Determination', 'Calmness', 'Incoherence', 'Rudeness']",0.25,0.25,0.25,0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0
+0.1042,"['Intelligence', 'Calmness', 'Sophistication', 'Incoherence', 'Laziness']",0.25,0.0,0.25,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,0.25
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness']",0.0,0.25,0.25,0.5,0.25,0.25,0.0,0.5,0.0,0.0,0.0,0.0
+0.125,"['Determination', 'Calmness', 'Politeness', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.25,0.25,0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+0.375,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.25,0.5,0.25,0.5,0.25,0.25,0.75,0.25,0.0,0.5,0.75
+0.2083,"['Determination', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity', 'Articulation']",0.0,0.75,0.0,0.25,0.5,0.0,0.0,0.5,0.25,0.25,0.0,0.0
+0.0833,"['Calmness', 'Incoherence', 'Stupidity', 'Laziness']",0.0,0.0,0.25,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.25
+0.0833,"['Determination', 'Stupidity', 'Unsophistication']",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.25,0.25,0.0,0.25,0.25,0.25,0.0,0.0,0.5,0.0
+0.0625,"['Determination', 'Stupidity']",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0
+0.2708,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.0,0.5,0.25,0.5,0.25,0.25,0.5,0.25,0.0,0.25,0.25
+0.1458,"['Intelligence', 'Determination', 'Calmness', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication']",0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.25,0.25,0.0
+0.125,"['Calmness', 'Politeness', 'Sophistication', 'Incoherence', 'Unsophistication']",0.0,0.0,0.25,0.25,0.0,0.25,0.25,0.0,0.0,0.0,0.5,0.0
+0.1667,"['Calmness', 'Sophistication', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.0,0.0,0.5,0.0,0.0,0.25,0.0,0.25,0.25,0.25,0.25,0.25
+0.1875,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness']",0.0,0.25,0.25,0.5,0.25,0.0,0.25,0.75,0.0,0.0,0.0,0.0
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness']",0.0,0.25,0.25,0.5,0.25,0.0,0.25,0.5,0.0,0.0,0.0,0.0
+0.2708,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.25,0.25,0.5,0.25,0.25,0.0,0.75,0.25,0.0,0.25,0.25
+0.0625,"['Determination', 'Calmness', 'Unsophistication']",0.0,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+0.2292,"['Intelligence', 'Determination', 'Calmness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation']",0.25,0.5,0.25,0.0,0.5,0.25,0.25,0.25,0.25,0.25,0.0,0.0
+0.25,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.25,0.25,0.25,0.75,0.0,0.0,0.5,0.25,0.0,0.25,0.25
+0.0833,"['Politeness', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.0,0.0,0.25,0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+0.2708,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Articulation', 'Unsophistication']",0.0,0.5,0.5,0.5,0.5,0.25,0.0,0.5,0.0,0.25,0.25,0.0
+0.125,"['Determination', 'Calmness', 'Politeness', 'Sophistication', 'Unsophistication']",0.0,0.5,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+0.1875,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Laziness']",0.0,0.5,0.25,0.5,0.25,0.0,0.25,0.25,0.0,0.0,0.0,0.25
+0.2708,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Unsophistication']",0.0,0.25,0.5,0.25,0.75,0.25,0.0,0.75,0.0,0.0,0.5,0.0
+0.25,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.5,0.5,0.5,0.0,0.25,0.75,0.0,0.0,0.25,0.0
+0.1458,"['Determination', 'Calmness', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication']",0.0,0.5,0.25,0.0,0.0,0.25,0.0,0.25,0.25,0.0,0.25,0.0
+0.1042,"['Determination', 'Calmness', 'Politeness', 'Rudeness', 'Stupidity']",0.0,0.25,0.25,0.25,0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.0
+0.3125,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.0,0.25,0.25,0.5,0.25,0.25,0.0,0.75,0.5,0.25,0.5,0.25
+0.1667,"['Calmness', 'Politeness', 'Sophistication', 'Rudeness', 'Unsophistication']",0.0,0.0,0.5,0.5,0.0,0.25,0.0,0.25,0.0,0.0,0.5,0.0
+0.0208,['Politeness'],0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0.1875,"['Determination', 'Calmness', 'Aggression', 'Sophistication', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.25,0.25,0.0,0.5,0.25,0.0,0.25,0.0,0.0,0.5,0.25
+0.1667,"['Determination', 'Politeness', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.0,0.25,0.0,0.25,0.25,0.5,0.0,0.0,0.5,0.0
+0.2917,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness']",0.0,0.5,0.5,0.75,0.5,0.25,0.25,0.75,0.0,0.0,0.0,0.0
+0.1667,"['Determination', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.5,0.0,0.25,0.25,0.0,0.0,0.25,0.25,0.0,0.25,0.25
+0.0417,"['Determination', 'Incoherence']",0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+0.2708,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication']",0.25,0.25,0.5,0.25,0.25,0.25,0.5,0.25,0.25,0.25,0.25,0.0
+0.25,"['Intelligence', 'Determination', 'Calmness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.25,0.5,0.0,0.5,0.25,0.25,0.25,0.25,0.0,0.25,0.25
+0.3125,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.0,0.5,0.75,0.25,0.25,0.0,0.75,0.25,0.0,0.5,0.25
+0.2708,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Laziness']",0.25,0.0,0.5,0.5,0.5,0.25,0.5,0.5,0.0,0.0,0.0,0.25
+0.2292,"['Intelligence', 'Politeness', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Laziness']",0.25,0.0,0.0,0.75,0.0,0.25,0.25,0.75,0.25,0.0,0.0,0.25
+0.1875,"['Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.0,0.5,0.25,0.25,0.0,0.0,0.5,0.25,0.0,0.25,0.25
+0.1875,"['Determination', 'Calmness', 'Aggression', 'Sophistication', 'Incoherence', 'Unsophistication', 'Laziness']",0.0,0.5,0.25,0.0,0.25,0.25,0.25,0.0,0.0,0.0,0.5,0.25
+0.1042,"['Calmness', 'Politeness', 'Sophistication', 'Unsophistication', 'Laziness']",0.0,0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.25
+0.1458,"['Determination', 'Calmness', 'Aggression', 'Sophistication', 'Incoherence', 'Unsophistication']",0.0,0.25,0.5,0.0,0.25,0.25,0.25,0.0,0.0,0.0,0.25,0.0
+0.2083,"['Calmness', 'Politeness', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.0,0.0,0.25,0.25,0.0,0.25,0.25,0.25,0.25,0.25,0.5,0.25
+0.2917,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Unsophistication']",0.25,0.25,0.75,0.5,0.75,0.0,0.0,0.75,0.0,0.0,0.25,0.0
+0.1667,"['Intelligence', 'Calmness', 'Aggression', 'Incoherence', 'Stupidity', 'Articulation', 'Laziness']",0.25,0.0,0.5,0.0,0.25,0.0,0.25,0.0,0.25,0.25,0.0,0.25
+0.125,"['Determination', 'Calmness', 'Aggression', 'Stupidity', 'Unsophistication']",0.0,0.5,0.25,0.0,0.25,0.0,0.0,0.0,0.25,0.0,0.25,0.0
+0.375,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Laziness']",0.25,0.5,0.5,0.5,0.5,0.25,0.5,1.0,0.25,0.0,0.0,0.25
+0.2917,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation']",0.25,0.25,0.25,0.75,0.5,0.0,0.25,0.75,0.25,0.25,0.0,0.0
+0.0625,"['Intelligence', 'Aggression', 'Laziness']",0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+0.1042,"['Intelligence', 'Aggression', 'Incoherence', 'Stupidity', 'Unsophistication']",0.25,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0
+0.3542,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.25,0.25,0.25,0.25,0.5,0.5,0.5,0.25,0.5,0.25,0.5,0.25
+0.0833,"['Calmness', 'Rudeness', 'Stupidity', 'Laziness']",0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.25
+0.1458,"['Determination', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Laziness']",0.0,0.5,0.0,0.25,0.25,0.0,0.25,0.25,0.0,0.0,0.0,0.25
+0.1458,"['Intelligence', 'Determination', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Laziness']",0.25,0.25,0.0,0.0,0.25,0.25,0.0,0.25,0.25,0.0,0.0,0.25
+0.0833,"['Incoherence', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.25
+0.125,"['Determination', 'Aggression', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.5,0.0,0.0,0.25,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+0.0625,"['Calmness', 'Aggression', 'Incoherence']",0.0,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+0.0417,"['Politeness', 'Aggression']",0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0.0833,"['Calmness', 'Politeness', 'Aggression', 'Rudeness']",0.0,0.0,0.25,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+0.125,"['Determination', 'Calmness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.5,0.25,0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.1875,"['Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness']",0.0,0.0,0.25,0.5,0.75,0.25,0.0,0.5,0.0,0.0,0.0,0.0
+0.2083,"['Intelligence', 'Determination', 'Sophistication', 'Incoherence', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.25,0.25,0.0,0.0,0.0,0.25,0.5,0.0,0.5,0.25,0.25,0.25
+0.0833,"['Determination', 'Calmness', 'Politeness', 'Laziness']",0.0,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+0.2083,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Articulation', 'Unsophistication']",0.0,0.5,0.25,0.25,0.25,0.25,0.0,0.5,0.0,0.25,0.25,0.0
+0.2708,"['Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.0,0.5,0.75,1.0,0.0,0.0,0.75,0.0,0.0,0.0,0.25
+0.0833,"['Determination', 'Incoherence', 'Unsophistication', 'Laziness']",0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25,0.25
+0.375,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication']",0.25,0.25,0.5,0.5,0.5,0.25,0.5,0.75,0.25,0.25,0.5,0.0
+0.1042,"['Determination', 'Aggression', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25,0.0,0.25,0.25
+0.0625,"['Determination', 'Aggression']",0.0,0.25,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Laziness']",0.0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.0,0.0,0.0,0.25
+0.0417,"['Aggression', 'Rudeness']",0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+0.2917,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.25,0.5,0.25,0.25,0.5,0.25,0.25,0.5,0.0,0.25,0.25
+0.0625,"['Determination', 'Aggression', 'Unsophistication']",0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+0.1875,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication']",0.25,0.0,0.25,0.25,0.25,0.25,0.0,0.5,0.25,0.0,0.25,0.0
+0.1875,"['Intelligence', 'Determination', 'Aggression', 'Sophistication', 'Incoherence', 'Stupidity', 'Articulation', 'Unsophistication']",0.25,0.5,0.0,0.0,0.25,0.25,0.25,0.0,0.25,0.25,0.25,0.0
+0.1667,"['Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.0,0.0,0.25,0.25,0.25,0.25,0.25,0.0,0.0,0.5,0.25
+0.125,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness']",0.0,0.25,0.25,0.25,0.5,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+0.0625,"['Calmness', 'Articulation', 'Laziness']",0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25
+0.125,"['Determination', 'Aggression', 'Incoherence', 'Unsophistication', 'Laziness']",0.0,0.5,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.25,0.25
+0.2292,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.5,0.25,0.25,0.75,0.25,0.25,0.25,0.0,0.0,0.25,0.0
+0.1458,"['Determination', 'Calmness', 'Sophistication', 'Incoherence', 'Stupidity', 'Laziness']",0.0,0.5,0.25,0.0,0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.25
+0.0625,"['Determination', 'Aggression', 'Unsophistication']",0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+0.1042,"['Determination', 'Calmness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.2292,"['Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.0,0.25,0.5,0.5,0.0,0.0,0.75,0.25,0.0,0.25,0.25
+0.125,"['Intelligence', 'Determination', 'Incoherence', 'Stupidity', 'Laziness']",0.25,0.5,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.25
+0.125,"['Calmness', 'Politeness', 'Sophistication', 'Unsophistication', 'Laziness']",0.0,0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.5,0.25
+0.2708,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity']",0.0,0.25,0.5,0.5,0.75,0.0,0.0,1.0,0.25,0.0,0.0,0.0
+0.1458,"['Determination', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Laziness']",0.0,0.25,0.0,0.5,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.25
+0.1875,"['Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness']",0.0,0.0,0.25,0.5,0.75,0.0,0.25,0.5,0.0,0.0,0.0,0.0
+0.0625,"['Determination', 'Rudeness']",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+0.25,"['Intelligence', 'Determination', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.25,0.5,0.0,0.0,0.25,0.25,0.5,0.25,0.25,0.25,0.25,0.25
+0.0625,"['Determination', 'Rudeness', 'Laziness']",0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.25,0.25,0.25,0.0,0.25,0.5,0.0,0.0,0.25,0.0
+0.2083,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity']",0.0,0.25,0.25,0.25,0.5,0.25,0.25,0.5,0.25,0.0,0.0,0.0
+0.1458,"['Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.0,0.25,0.5,0.25,0.0,0.0,0.5,0.0,0.0,0.0,0.25
+0.2292,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Articulation', 'Laziness']",0.25,0.0,0.25,0.5,0.25,0.25,0.5,0.25,0.0,0.25,0.0,0.25
+0.1042,"['Intelligence', 'Determination', 'Incoherence', 'Articulation', 'Unsophistication']",0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.25,0.25,0.0
+0.0833,"['Intelligence', 'Determination', 'Stupidity']",0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+0.2083,"['Intelligence', 'Determination', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Laziness']",0.25,0.25,0.0,0.25,0.25,0.25,0.25,0.5,0.25,0.0,0.0,0.25
+0.0417,"['Calmness', 'Laziness']",0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+0.2708,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.5,0.25,0.25,0.25,0.25,0.25,0.5,0.0,0.0,0.5,0.5
+0.1875,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.5,0.25,0.5,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+0.1042,"['Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.0,0.25,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.1667,"['Intelligence', 'Calmness', 'Politeness', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.0,0.25,0.25,0.0,0.0,0.25,0.25,0.25,0.0,0.25,0.25
+0.2083,"['Determination', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.25,0.0,0.25,0.25,0.0,0.25,0.75,0.25,0.0,0.25,0.25
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.5,0.25,0.25,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+0.2292,"['Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity', 'Laziness']",0.0,0.0,0.5,0.5,0.5,0.0,0.0,0.75,0.25,0.0,0.0,0.25
+0.2083,"['Intelligence', 'Determination', 'Calmness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Laziness']",0.25,0.25,0.25,0.0,0.5,0.25,0.0,0.25,0.25,0.0,0.0,0.5
+0.25,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication']",0.25,0.25,0.25,0.5,0.0,0.0,0.5,0.5,0.25,0.25,0.25,0.0
+0.3542,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.25,0.25,0.5,0.75,0.25,0.25,1.0,0.25,0.0,0.25,0.25
+0.2708,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Articulation', 'Unsophistication']",0.0,0.25,0.25,0.5,0.5,0.0,0.5,0.75,0.0,0.25,0.25,0.0
+0.1042,"['Determination', 'Sophistication', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.25,0.0,0.0,0.0,0.25,0.25,0.25,0.0,0.0,0.25,0.0
+0.2917,"['Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication']",0.0,0.0,0.5,0.5,0.5,0.25,0.25,0.75,0.25,0.0,0.5,0.0
+0.2292,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.25,0.5,0.5,0.5,0.0,0.0,0.5,0.0,0.0,0.25,0.25
+0.125,"['Calmness', 'Politeness', 'Incoherence', 'Rudeness', 'Stupidity', 'Laziness']",0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.25,0.25,0.0,0.0,0.25
+0.2708,"['Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.0,0.25,0.25,0.5,0.5,0.25,0.25,0.25,0.0,0.75,0.25
+0.0625,"['Calmness', 'Aggression', 'Incoherence']",0.0,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+0.125,"['Determination', 'Politeness', 'Rudeness', 'Unsophistication']",0.0,0.5,0.0,0.25,0.0,0.0,0.0,0.5,0.0,0.0,0.25,0.0
+0.2917,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Laziness']",0.25,0.5,0.25,0.25,0.25,0.25,0.5,0.5,0.25,0.25,0.0,0.25
+0.1458,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.25,0.25,0.25,0.25,0.0,0.0,0.5,0.0,0.0,0.0,0.25
+0.2292,"['Determination', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.25,0.0,0.25,0.25,0.25,0.25,0.75,0.25,0.0,0.25,0.25
+0.2083,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Articulation', 'Laziness']",0.0,0.25,0.5,0.5,0.25,0.0,0.0,0.5,0.0,0.25,0.0,0.25
+0.1042,"['Determination', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence']",0.0,0.25,0.0,0.25,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0
+0.0833,"['Determination', 'Calmness', 'Aggression', 'Laziness']",0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+0.1042,"['Determination', 'Politeness', 'Rudeness', 'Laziness']",0.0,0.5,0.0,0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.2917,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication']",0.25,0.0,0.5,0.5,0.5,0.5,0.0,0.5,0.25,0.0,0.5,0.0
+0.3125,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication']",0.25,0.5,0.25,0.5,0.25,0.25,0.5,0.5,0.5,0.0,0.25,0.0
+0.2292,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.5,0.25,0.25,0.25,0.0,0.25,0.25,0.25,0.0,0.25,0.5
+0.1458,"['Determination', 'Calmness', 'Politeness', 'Incoherence', 'Rudeness', 'Stupidity', 'Laziness']",0.0,0.25,0.25,0.25,0.0,0.0,0.25,0.25,0.25,0.0,0.0,0.25
+0.125,"['Intelligence', 'Determination', 'Calmness', 'Aggression', 'Sophistication', 'Incoherence']",0.25,0.25,0.25,0.0,0.25,0.25,0.25,0.0,0.0,0.0,0.0,0.0
+0.1458,"['Intelligence', 'Determination', 'Politeness', 'Sophistication', 'Rudeness', 'Articulation', 'Unsophistication']",0.25,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.25,0.0
+0.0417,"['Aggression', 'Laziness']",0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+0.1042,"['Calmness', 'Sophistication', 'Rudeness', 'Laziness']",0.0,0.0,0.25,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.5
+0.125,"['Determination', 'Aggression', 'Incoherence', 'Rudeness', 'Unsophistication']",0.0,0.5,0.0,0.0,0.25,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+0.25,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.0,0.25,0.5,0.5,0.5,0.0,0.0,0.5,0.25,0.0,0.25,0.25
+0.25,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication']",0.25,0.0,0.25,0.25,0.75,0.25,0.0,0.5,0.25,0.25,0.25,0.0
+0.1042,"['Determination', 'Calmness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.3333,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication']",0.25,0.25,0.5,0.5,0.5,0.5,0.25,0.75,0.25,0.0,0.25,0.0
+0.1458,"['Determination', 'Politeness', 'Aggression', 'Incoherence', 'Articulation', 'Unsophistication', 'Laziness']",0.0,0.25,0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.25,0.25,0.25
+0.0625,"['Incoherence', 'Unsophistication', 'Laziness']",0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25,0.25
+0.1042,"['Determination', 'Calmness', 'Aggression', 'Incoherence']",0.0,0.5,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+0.125,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.25,0.25,0.25,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.0417,"['Incoherence', 'Laziness']",0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.25
+0.0625,"['Calmness', 'Aggression', 'Incoherence']",0.0,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+0.0833,"['Determination', 'Calmness', 'Rudeness', 'Unsophistication']",0.0,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+0.0625,"['Incoherence', 'Unsophistication', 'Laziness']",0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25,0.25
+0.0417,"['Rudeness', 'Laziness']",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.0833,"['Politeness', 'Rudeness', 'Unsophistication', 'Laziness']",0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.25,0.25
+0.0833,"['Determination', 'Incoherence', 'Stupidity', 'Laziness']",0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.25
+0.1667,"['Determination', 'Calmness', 'Politeness', 'Sophistication', 'Incoherence', 'Rudeness']",0.0,0.25,0.25,0.75,0.0,0.25,0.25,0.25,0.0,0.0,0.0,0.0
+0.4792,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.25,0.25,0.5,0.75,0.5,0.5,0.25,1.0,0.25,0.5,0.75,0.25
+0.2083,"['Determination', 'Politeness', 'Aggression', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication']",0.0,0.25,0.0,0.5,0.25,0.0,0.25,0.5,0.25,0.25,0.25,0.0
+0.3125,"['Intelligence', 'Calmness', 'Politeness', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.0,0.5,0.5,0.0,0.5,0.25,0.75,0.25,0.0,0.25,0.5
+0.1667,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Laziness']",0.25,0.0,0.25,0.25,0.25,0.25,0.0,0.25,0.25,0.0,0.0,0.25
+0.2708,"['Intelligence', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication']",0.25,0.0,0.5,0.5,0.5,0.25,0.0,0.75,0.25,0.0,0.25,0.0
+0.2083,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Sophistication', 'Rudeness', 'Stupidity', 'Unsophistication']",0.25,0.25,0.25,0.25,0.0,0.25,0.0,0.5,0.25,0.0,0.5,0.0
+0.4583,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.25,0.25,0.25,0.5,0.5,0.5,0.25,1.0,0.5,0.5,0.75,0.25
+0.2292,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Rudeness', 'Stupidity', 'Articulation', 'Unsophistication', 'Laziness']",0.0,0.25,0.25,0.5,0.25,0.25,0.0,0.25,0.25,0.25,0.25,0.25
+0.0833,"['Calmness', 'Politeness', 'Rudeness', 'Laziness']",0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+0.2083,"['Intelligence', 'Determination', 'Calmness', 'Aggression', 'Sophistication', 'Incoherence', 'Articulation', 'Unsophistication', 'Laziness']",0.25,0.5,0.25,0.0,0.25,0.25,0.25,0.0,0.0,0.25,0.25,0.25
+0.0833,"['Intelligence', 'Determination', 'Sophistication', 'Unsophistication']",0.25,0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.0
+0.2292,"['Determination', 'Calmness', 'Politeness', 'Aggression', 'Rudeness', 'Laziness']",0.0,0.5,0.5,0.5,0.25,0.0,0.0,0.5,0.0,0.0,0.0,0.5
+0.375,"['Intelligence', 'Determination', 'Calmness', 'Politeness', 'Aggression', 'Sophistication', 'Incoherence', 'Rudeness', 'Stupidity', 'Unsophistication', 'Laziness']",0.25,0.5,0.25,0.75,0.25,0.5,0.25,0.75,0.25,0.0,0.5,0.25
+0.0833,"['Determination', 'Calmness', 'Aggression', 'Rudeness']",0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+0.0833,"['Politeness', 'Aggression', 'Unsophistication', 'Laziness']",0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.25,0.25
+0.1042,"['Calmness', 'Politeness', 'Sophistication', 'Unsophistication']",0.0,0.0,0.25,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.5,0.0
+0.0417,"['Determination', 'Incoherence']",0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
